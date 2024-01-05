@@ -46,4 +46,4 @@ Output Layer: 1 node with sigmoid activation.
 
 Loss Function: Binary crossentropy.
 
-Accuracy on Test Set: Accuracy score provided.
+Accuracy on Test Set: Acheived 93.10%.
